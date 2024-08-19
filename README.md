@@ -54,17 +54,3 @@ streamlit run echo_bot.py
 
 
 
-The app will open in your browser. You can start chatting by typing in the input box provided.
-
-Customization
-You can easily extend or modify this bot to perform more complex tasks:
-
-Change the Response Logic: Modify the response generation logic to implement more advanced conversational features.
-Integrate with APIs: Connect to external APIs to fetch data and provide dynamic responses based on user input.
-
-
-
-
-
-You can copy and paste this code directly into your `README.md` file.
-
