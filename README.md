@@ -36,7 +36,7 @@ pip install streamlit
 ### Clone the repository:
 
 
-git clone [https://github.com/your-username/echo-bot.git](https://github.com/victordaniel/chatbot_openai.git)
+git clone (https://github.com/victordaniel/chatbot_openai.git)
 
 
 ### Navigate to the project directory:
