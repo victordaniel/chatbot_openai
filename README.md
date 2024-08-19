@@ -26,7 +26,7 @@ Welcome to the **Echo Bot**! This simple Streamlit application acts as a chatbot
 
 To run this application, you need to have Python installed along with the `streamlit` package. You can install Streamlit using pip:
 
-```bash
+
 pip install streamlit
 
 
@@ -35,20 +35,20 @@ pip install streamlit
 
 ### Clone the repository:
 
-```bash
+
 git clone https://github.com/your-username/echo-bot.git
 
 
 ### Navigate to the project directory:
 
-```bash
+
 cd echo-bot
 
 
 
 ### Run the Streamlit app:
 
-```bash
+
 streamlit run echo_bot.py
 
 
